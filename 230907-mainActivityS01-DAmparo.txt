@@ -1,1 +1,5 @@
 Hi, my name is Deuz B. Amparo
+
+I am currently studying at De La Salle University Dasmarinas, where I delved into various aspects of machine learning, nlp, data science, and more.
+My latest school experience was focused on deepening my understanding in Web Development. I also had the opportunity to collaborate on research projects
+that aimed to advance the field of sport science and machine learning.
